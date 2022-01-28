@@ -6,7 +6,7 @@ An example deployment of this repository is at [https://pagecrypt.onrender.com](
 
 ## Deployment
 
-See the [blog post](https://render.com/blog/static-site-auth) that uses this repository or follow the steps below:
+See the [blog post](https://render.com/blog/static-site-auth-pagecrypt) that uses this repository or follow the steps below:
 
 1. [Create a new repository](https://github.com/render-examples/pagecrypt/generate) from this template repository.
 2. [Create a new static site](https://dashboard.render.com/select-repo?type=static) on Render from that repository using the following values:
