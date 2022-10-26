@@ -9,7 +9,7 @@
   "author": "Render Developers",
   "license": "MIT",
   "engines": {
-    "node": ">= 16"
+    "node": ">=16 <19"
   },
   "dependencies": {
     "pagecrypt": "^5.3.0"
